@@ -1,13 +1,71 @@
-- 👋 Hi, I’m @Keertikumar-H-K
-- 👀 I’m interested in web development, data science, and full-stack applications.
-- 🌱 I’m currently learning React.js, Flask, and advanced JavaScript concepts.
-- 💞️ I’m looking to collaborate on web apps, open-source projects, and innovative tech solutions.
-- 📫 How to reach me: [keertikumar543@gmail.com]
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I enjoy experimenting with new coding challenges and building projects just for fun!
+# 👋 Hi, I'm Keertikumar H K
 
+🎓 Computer Science & Engineering Graduate
 
-<!---
-Keertikumar-H-K/Keertikumar-H-K is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Passionate Full Stack Developer who enjoys building scalable web applications and solving real-world problems.
+
+## 🚀 Tech Stack
+
+### Frontend
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- React.js
+- Tailwind CSS
+
+### Backend
+- Node.js
+- Express.js
+- Python
+- Flask
+
+### Database
+- MongoDB
+- Firebase
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Postman
+
+---
+
+## 🌟 Featured Projects
+
+### 🚀 Real-Time Code Editor
+- Real-time collaborative coding
+- WebSocket synchronization
+- Multi-language code execution
+- Team presence
+
+### 💼 Portfolio Website
+- Modern React Portfolio
+- Responsive UI
+- Animations
+- AI Projects Showcase
+
+### 🏋️ AI Fitness Coach
+- AI-generated workout plans
+- Diet recommendations
+- Voice assistant integration
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced React
+- Node.js
+- System Design
+- Data Structures & Algorithms
+
+---
+
+## 📫 Connect with Me
+
+📧 Email: keertikumar543@gmail.com
+
+💼 LinkedIn:
+www.linkedin.com/in/keertikumar-h-k-363a88327
+
+⭐ Always open to Full Stack Developer opportunities.
