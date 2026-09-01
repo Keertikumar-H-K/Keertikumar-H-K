@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Keertikumar H K
 
-### 💻 Python Full Stack Developer | Software Developer | AI Enthusiast
+### Python Full Stack Developer | Software Developer | AI Enthusiast
 
 🎓 Computer Science & Engineering Graduate
 🚀 Passionate about building scalable, user-focused web applications
